@@ -1,0 +1,6 @@
+x = eval(input("x = "))
+y = eval(input("y = "))
+print("和为", x+y)
+print("差为", x-y)
+print("积为", x*y)
+print("商为", x/y, end=" ")

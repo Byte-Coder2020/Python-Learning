@@ -1,0 +1,5 @@
+a = eval(input())
+b = eval(input())
+c = eval(input())
+print("max=", max(a, b, c))
+print("min=", min(a, b, c))
